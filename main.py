@@ -24,3 +24,4 @@ while is_on:
             coffee_maker.make_coffee(drink)
 
 # on my branch changing few things
+# adding alias for remote repo
