@@ -32,3 +32,6 @@ class Menu:
             if item.name == order_name:
                 return item
         print("Sorry that item is not available.")
+
+
+# thinking of adding more varieties to the menu
